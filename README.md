@@ -26,6 +26,8 @@ Professora no IFC *campus* Videira desde 2010
 - Programação (Python, C, PHP, Perl)
 - Sistemas Operacionais
 
+bla
+
 ---
 # Disciplinas 
 ## Curso Técnico em Informática
