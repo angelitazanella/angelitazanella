@@ -32,6 +32,6 @@ Professora no IFC *campus* Videira desde 2010
 - Redes de Computadores
 
 ## Bacharelado em Ciência da Computação
-- [Redes de Computadores I] (GBCC/Redes1/README.md)
+- Redes de Computadores I 
 - Redes de Computadores II
 - Segurança
