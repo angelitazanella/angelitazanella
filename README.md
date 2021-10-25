@@ -4,7 +4,9 @@ Professora no IFC *campus* Videira desde 2010
 
 <img src="../img/angelita-rettore-de-araujo-zanella.jpg" alt="Foto do docente " align=right width=128/>
 
-**:mortar_board: Graduação**: Bacharelado em Ciências da Computação<br>
+**:mortar_board: Graduação**: Bacharelado em Ciências da Computação, Licenciatura em Computação<br>
+**:mortar_board: Especialização**: Sistemas de Gestão de Segurança da Informação<br>
+**:mortar_board: Pós-Graduação**: Mestrado em Informática, Doutoradu em Ciência da Computação (em andamento)<br>
 **:closed_book: Última Formação**: Mestrado em Informática <br>
 **:e-mail: E-mail**: angelita.zanella@ifc.edu.br <br>
 **:books: Áreas de pesquisa**: Internet das Coisas e Segurança e Agricultura Inteligente <br>
