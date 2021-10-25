@@ -1,3 +1,4 @@
+<img src="./custom.svg" alt="" />
 <h1>Angelita Rettore de Araujo Zanella</h1>
 
 Professora no IFC *campus* Videira desde 2010
