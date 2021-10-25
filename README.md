@@ -1,4 +1,31 @@
-<img src="custom.svg" >
+
+
+
+
+<!-- begin snippet: js hide: false console: true babel: null -->
+
+<!-- language: lang-css -->
+
+    h1 {
+      color: red;
+      animation: myanimation 2s infinite;
+    }
+
+    @keyframes myanimation {
+      from {
+        color: red;
+      }
+      to {
+        color: yellow;
+      }
+    }
+
+<!-- language: lang-html -->
+
+    <h1>Hello world!</h1>
+
+<!-- end snippet -->
+
 
 <h1>Angelita Rettore de Araujo Zanella</h1>
 
