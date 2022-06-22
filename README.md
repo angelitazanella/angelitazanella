@@ -23,5 +23,5 @@ Professora no IFC *campus* Videira desde 2010
 - :pushpin: Redes de Computadores I 
 - :pushpin: Redes de Computadores II
 - :pushpin: Segurança
-
+- :pushpin: Infrastructure as Code
 
