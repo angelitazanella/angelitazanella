@@ -5,10 +5,10 @@ Professora no IFC *campus* Videira desde 2010
 <!--<img src="../img/angelita-rettore-de-araujo-zanella.jpg" alt="Foto do docente " align=right width=128/>-->
 
 **:mortar_board: Graduação**: Bacharelado em Ciências da Computação, Licenciatura em Computação<br>
-**:mortar_board: Especialização**: Sistemas de Gestão de Segurança da Informação<br>
+**:mortar_board: Especialização**: Sistemas de Gestão de Segurança da Informação, A moderna Educação<br>
 **:mortar_board: Pós-Graduação**: Mestrado em Informática, Doutorado em Ciência da Computação (em andamento)<br>
 **:e-mail: E-mail**: angelita.zanella@ifc.edu.br <br>
-**:books: Áreas de pesquisa**: Internet das Coisas e Segurança e Agricultura Inteligente <br>
+**:books: Áreas de pesquisa**: Internet das Coisas e Segurança e Agricultura Inteligente, TICs para Educação, Metodologias para o ensino de Redes de Comptuadores e Segurança de Sistemas <br>
 **:closed_book: Competências e habilidades**: Segurança, Redes de Computadores, Linux, DevOps, Python, GoLang, Educação
 
 
@@ -20,7 +20,7 @@ Professora no IFC *campus* Videira desde 2010
 - :pushpin: Redes de Computadores
 
 ### Bacharelado em Ciência da Computação
-- :pushpin: Redes de Computadores I 
+- :pushpin: <a href="https://github.com/info-ifc-vda/01-redes_1-angelitazanella">Redes de Computadores I </a>
 - :pushpin: Redes de Computadores II
 - :pushpin: Segurança
 - :pushpin: Infrastructure as Code
