@@ -23,5 +23,6 @@ Professora no IFC *campus* Videira desde 2010
 - :pushpin: <a href="https://github.com/info-ifc-vda/redes_1-angelitazanella">Redes de Computadores I </a>
 - :pushpin: Redes de Computadores II
 - :pushpin: Segurança
-- :pushpin: Infrastructure as Code
+- :pushpin: Arquitetura de Computadores
+- :pushpin: Infrastructure e Serviços Web
 
