@@ -6,9 +6,9 @@ Professora no IFC *campus* Videira desde 2010
 
 **:mortar_board: Graduação**: Bacharelado em Ciências da Computação, Licenciatura em Computação<br>
 **:mortar_board: Especialização**: Sistemas de Gestão de Segurança da Informação, A moderna Educação<br>
-**:mortar_board: Pós-Graduação**: Mestrado em Informática, Doutorado em Ciência da Computação (em andamento)<br>
+**:mortar_board: Pós-Graduação**: Mestrado em Informática, Doutorado em Ciência da Computação<br>
 **:e-mail: E-mail**: angelita.zanella@ifc.edu.br <br>
-**:books: Áreas de pesquisa**: Internet das Coisas e Segurança e Agricultura Inteligente, TICs para Educação, Metodologias para o ensino de Redes de Comptuadores e Segurança de Sistemas <br>
+**:books: Áreas de pesquisa**: Segurança em Internet das Coisas, Agricultura Inteligente, Cidades Inteligentes, Indústria 4.0, TICs para Educação, Metodologias para o ensino de Redes de Computadores e Segurança de Sistemas <br>
 **:closed_book: Competências e habilidades**: Segurança, Redes de Computadores, Linux, DevOps, Python, GoLang, Educação
 
 
